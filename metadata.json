@@ -1,0 +1,6 @@
+{
+  "name": "UroCálculos",
+  "description": "Calculadoras médicas de urología y oncología con historial de cálculos y síntesis de casos clínicos por IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
