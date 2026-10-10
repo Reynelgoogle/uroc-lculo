@@ -31,3 +31,13 @@ google-services.json
 
 # Android Profiling
 *.hprof
+
+# Release / build outputs
+app/release/
+output-metadata.json
+
+# Backup files
+*.bak
+
+# AI agent artifacts
+.artifacts/
